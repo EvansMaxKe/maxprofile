@@ -39,6 +39,6 @@ if ($mail->send()) {
 }else{
     echo "Error::".$mail->ErrorInfo;
 }
-
+#header("location:info.html");
 
 ?>
