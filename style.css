@@ -321,7 +321,7 @@ div.contact p span{
     div.right p{
         font-size: 1rem;
         font-weight: bolder;
-        font-family: cursive;
+        font-family:'Courier New', Courier, monospace;
         color:white;
         padding-right: 5%;
     }
